@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const KEY = 'GoogleApikey';
+const KEY = 'AIzaSyA0FmfsQzM5PEWq6xH7s5i0eOA-C1OX6Jw';
 
 export const baseParams = {
   part: 'snippet',
